@@ -1,0 +1,7 @@
+C:\Users\CP262BP\source\repos\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.exe.config
+C:\Users\CP262BP\source\repos\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.exe
+C:\Users\CP262BP\source\repos\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.pdb
+C:\Users\CP262BP\source\repos\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.csprojAssemblyReference.cache
+C:\Users\CP262BP\source\repos\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.csproj.CoreCompileInputs.cache
+C:\Users\CP262BP\source\repos\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.exe
+C:\Users\CP262BP\source\repos\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.pdb
